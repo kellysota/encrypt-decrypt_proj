@@ -1,4 +1,4 @@
-# Script de Chiffrement et Déchiffrement de Fichiers
+# Projet Ransomware
 
 Ce projet fournit un script Python pour chiffrer et déchiffrer les fichiers dans un dossier spécifié en utilisant le module `cryptography.fernet`.
 
