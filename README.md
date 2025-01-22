@@ -10,7 +10,3 @@ Ce projet fournit un script Python pour chiffrer et déchiffrer les fichiers dan
 ## Prérequis
 - Python 3.x
 - Module `cryptography`
-
-Pour installer les dépendances nécessaires :
-```bash
-pip install cryptography
